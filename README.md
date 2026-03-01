@@ -1,4 +1,4 @@
-# Home-Prices
+# Home-Prices-Prediction
 🏠 Home Prices Prediction - A Machine Learning Project
 
 This repository contains a complete machine learning pipeline to predict house prices based on tabular real estate data. The goal of this project is to build a model that can accurately forecast the selling price of a home given a set of input features such as location, size, number of rooms, and other property attributes.
